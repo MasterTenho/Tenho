@@ -1,0 +1,6 @@
+gin.freefireth.com
+.dts.com
+.list.com
+.garena.com
+.us.garena.com
+.garena.us
